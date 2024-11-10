@@ -25,7 +25,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Global Reach with Local Access"
-                paragraph="Transfer offers solutions that cater to the needs of individuals and businesses in an increasingly interconnected world. Whether you're sending money to loved ones, paying international suppliers, touring, or converting your assets between fiat and crypto, we offer a seamless, secure, and efficient way to manage your transactions. Here’s how we empower your global payments with local access:"
+                paragraph="Tansfar offers solutions that cater to the needs of individuals and businesses in an increasingly interconnected world. Whether you're sending money to loved ones, paying international suppliers, touring, or converting your assets between fiat and crypto, we offer a seamless, secure, and efficient way to manage your transactions. Here’s how we empower your global payments with local access:"
                 mb="44px"
               />
 

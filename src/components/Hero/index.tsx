@@ -16,9 +16,7 @@ const Hero = () => {
                   Global Crypto & Fiat Transfers for individual and businesses
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                Choose the currency that suits your needs, allowing you to send and receive cryptocurrency or traditional 
-                fiat quickly and efficiently, in just minutes. Manage international payments with ease, ensuring fast, reliable 
-                transactions, whether dealing with crypto or traditional fiat currencies globally.
+                Choose the currency that suits your needs, send and receive cryptocurrency or traditional fiat quickly in just minutes. Manage international payments with ease. Make a fast and reliable transactions, whether dealing with crypto or traditional fiat currencies globally.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <PreOrderModal />
